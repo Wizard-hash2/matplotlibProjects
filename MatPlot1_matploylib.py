@@ -131,6 +131,7 @@ def Linear_algebra():
     print(np.dot(ary_2,ary_3))#Perform dot multiplications
 
     print(f"The transpos of ary_mult is {ary_Mult.transpose()}")
+    
 
 
 Linear_algebra()
